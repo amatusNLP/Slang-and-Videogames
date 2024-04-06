@@ -71,6 +71,7 @@ Toy Story 3 	2010	883	7	 Platform adventure
 Uncharted 4: A Thief's End 	2016	34,113	16	 Action adventure
 Yakuza 0 	2015	67,049	18	 Action adventure
 
+Videogames are in alphabetic order
 The separator between each transcript is the following
 
 --END--
