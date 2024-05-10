@@ -45,7 +45,7 @@ MediEvil 	1998	1,681	12	 Hack and slash
 Metal Gear Rising: Revengeance 	2013	13,088	18	 Hack and slash
 Middle-Earth: Shadow of Mordor 	2014	6,735	18	 Action adventure
 Mortal Kombat vs DC universe 	2008	11,245	16	 Beat 'em up
-Ninja Gaiden 	1988	1,414	-	 Hack and slash
+Ninja Gaiden 	2004	1,414	-	 Hack and slash
 Pac-Man and the Ghostly Adventures 	2013	1,174	7	 Platform
 Persona 4 Golden 	2008	54,932	16	 JRPG
 Prince of Persia: The Sands of Time 	2003	1,124	7	 Action platform
